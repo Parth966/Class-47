@@ -1,0 +1,25 @@
+characters:the playing character is the cannon and the ships and the tower are the non playing characters.
+aim:to hit the ships with the cannon ball.
+story:the ships are trying to attack and you are defending against them.
+adaptivity: it gets arder because the ships move faster
+rules: you cannot shoot the tower and you cannot kill all ships with one cannon ball and there will only be 4
+       boats at a maximum on the screen at one time.
+balance: it is hard because they are quick but also easy because you can rapid fire.
+feedback: your score increases every time you hit a ship.
+chance vs skill:it is a skill game since you can practice how to shoot them and get better at it.
+
+Make different classes
+create canvas
+make background
+make objects
+make boats move
+make cannon fire and break boats
+make sure that you can only have a maximum of 4 boats on the screen at any time
+make the boat animation.
+make the breaking boat animation
+make the water splash animation
+make the sweetalert
+make the score
+make the boats move quicker as you get a higher score.
+make the winning sweet alert.
+check if a broken boat is touching the tower or a normal boat, if it is a normal boat then you lose
